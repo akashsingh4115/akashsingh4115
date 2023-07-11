@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**akashsingh4115/akashsingh4115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 
 
 - 🔭 I’m currently working on Siebel CRM.
 - 🌱 I’m currently learning Data Analysis tools
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: akashsinghchanchal.gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I like both, Messi and Ronaldo.
--->
